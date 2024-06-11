@@ -1,4 +1,4 @@
-<h1 align="center">Whaticket Baileys | Atmos Multi</h1>
+<h1 align="center">.::WILIKECHAT::.</h1>
 
 <div align="center">
 
@@ -36,9 +36,6 @@ Email válido para certificação SSL
 
 ## Consultoria e contato:
 
-    Atmos Multi
-
-    Fone: 11 99568-8502(WhatsApp)
 
 
 
